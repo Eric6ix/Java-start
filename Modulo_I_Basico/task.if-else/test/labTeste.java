@@ -1,23 +1,14 @@
-//---
+/**
+ Faça um programa que receba uma nota (0 a 10) e imprima o conceito correspondente:
+- 9 a 10: A
+- 7 a 8.9: B
+- 5 a 6.9: C
+- 0 a 4.9: D
+ */
+class labTeste {
 
-//### Exercício 2
-//Escreva um programa que receba um número e verifique se ele é positivo, negativo ou zero.
+    public static void main(String[] args) {
 
-//---
-
-class labTeste{
-    public static void main(String[] args){
-        int number = 0;
-
-        if(number > 0){
-            System.out.println("Este núemro é positivo");
-        }
-        else if(number < 0){
-            System.out.println("Este núemro é negativo");
-        }
-        else{
-            System.out.println("Inválido!. este núemro é 0");
-        }
 
     }
 }
