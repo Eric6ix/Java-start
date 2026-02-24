@@ -1,11 +1,4 @@
-//---
-
-//### Exercício 2
-//Escreva um programa que receba um número e verifique se ele é positivo, negativo ou zero.
-
-//---
-
-class labTeste{
+class taskTow{
     public static void main(String[] args){
         int number = 0;
 
